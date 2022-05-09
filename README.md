@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrettMarshall16
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Next,Tailwind,Node
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me | Brett.Marshall@shaw.ca
 
 <!---
